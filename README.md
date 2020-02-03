@@ -1,3 +1,8 @@
+
+_Organizer's note:_ this project participated in iQuHACK 2020.
+
+---
+
 # quantum-roulette
 A quantum game based on quantum teleportation and decoherence.
 
